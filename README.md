@@ -4,8 +4,8 @@
 ## 💻 Tech Stuff I Know a Bit About:
 ![My Skills](https://skillicons.dev/icons?i=c,cpp,python,php,java,js,html,css,mysql,postgresql,laravel,flask,nextjs,vue,react,vite,docker,kubernetes,electron,nodejs,godot,arduino,git)
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Lkaetsu&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lkaetsu&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Lkaetsu&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lkaetsu&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <!--
 **Lkaetsu/Lkaetsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
