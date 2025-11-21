@@ -1,8 +1,9 @@
 # Hi There👋, I'm Lkaetsu
-### 🌱 I'm a computer engineering student at PUC Campinas
+### 🌱 I'm currently getting my bachelor's in computer engineering
+### 🔭 I'm also doing an internship in the area of DevSecOps
 
 ## 💻 Tech Stuff I Know a Bit About:
-![My Skills](https://skillicons.dev/icons?i=c,cpp,python,php,java,js,html,css,mysql,postgresql,laravel,flask,nextjs,vue,react,vite,docker,kubernetes,electron,nodejs,godot,arduino,git)
+![My Skills](https://skillicons.dev/icons?i=c,cpp,python,php,java,js,html,css,mysql,postgresql,sqlite,laravel,flask,fastapi,nodejs,nextjs,vue,react,vite,nginx,docker,kubernetes,electron,godot,arduino,git,linux,azure)
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Lkaetsu&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lkaetsu&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
