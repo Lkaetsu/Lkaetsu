@@ -1,6 +1,6 @@
 # Hi There👋, I'm Lkaetsu
-### 🌱 I'm currently getting my bachelor's in computer engineering
-### 🔭 I'm also doing an internship in the area of DevSecOps
+### 🌱 Currently getting my bachelor's in computer engineering
+### 🔭 Currently working as a DevSecOps analyst
 
 ## 💻 Tech Stuff I Know a Bit About:
 ![My Skills](https://skillicons.dev/icons?i=c,cpp,python,php,java,js,html,css,mysql,postgresql,sqlite,laravel,flask,fastapi,nodejs,nextjs,vue,react,vite,nginx,docker,kubernetes,electron,godot,arduino,git,linux,azure)
